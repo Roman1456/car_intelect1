@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="57a38a90-18b6-42e8-837f-4a65dfaaf68d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/gfgffbf/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
       <recent name="C:\Users\Logika\Downloads\car_intelect1\gfgffbf" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.digital_edu">
+  <component name="RunManager" selected="Python.main1">
     <configuration name="digital_edu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="car_intelect1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,8 +112,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.digital_edu" />
         <item itemvalue="Python.main1" />
+        <item itemvalue="Python.digital_edu" />
       </list>
     </recent_temporary>
   </component>
