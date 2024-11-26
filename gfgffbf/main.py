@@ -1,6 +1,9 @@
 import pandas as pd
+import numpy as np
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
 
-df = pd.read_csv('train.csv')
+df = pd.read_csv('../train.csv')
 
 df.info()
 df.drop(['PassengerId','Name','Ticket','Cabin'],axis = 1 ,inplace = True)
