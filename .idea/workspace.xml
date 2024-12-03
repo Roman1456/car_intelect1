@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57a38a90-18b6-42e8-837f-4a65dfaaf68d" name="Changes" comment="" />
+    <list default="true" id="57a38a90-18b6-42e8-837f-4a65dfaaf68d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,21 +30,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Logika\Downloads\car_intelect1" />
       <recent name="C:\Users\Logika\Downloads\car_intelect1\gfgffbf" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main1">
+  <component name="RunManager" selected="Python.digital_edu">
     <configuration name="digital_edu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="car_intelect1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,8 +110,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main1" />
         <item itemvalue="Python.digital_edu" />
+        <item itemvalue="Python.main1" />
       </list>
     </recent_temporary>
   </component>
